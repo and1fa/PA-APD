@@ -1,0 +1,38 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "admin"
+    },
+    "devon": {
+        "password": "dvn123",
+        "role": "dokter"
+    },
+    "britama": {
+        "password": "brt123",
+        "role": "dokter"
+    },
+    "andi": {
+        "password": "and123",
+        "role": "dokter"
+    },
+    "cempaka": {
+        "password": "cpk123",
+        "role": "ruangan"
+    },
+    "tulip": {
+        "password": "tlp123",
+        "role": "ruangan"
+    },
+    "mawar": {
+        "password": "mwr123",
+        "role": "ruangan"
+    },
+    "donalbebek": {
+        "password": "bbk123",
+        "role": "guest"
+    },
+    "yanto": {
+        "password": "12345678",
+        "role": "guest"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "PSN001": {
+        "nama": "Budi Santoso",
+        "umur": 45,
+        "jenisKelamin": "L",
+        "tinggi": 170,
+        "berat": 70,
+        "diagnosa": "Diabetes",
+        "ruangan": "Mawar",
+        "dokter": "dr. Britama"
+    },
+    "PSN002": {
+        "nama": "Siti Aminah",
+        "umur": 34,
+        "jenisKelamin": "P",
+        "tinggi": 160,
+        "berat": 55,
+        "diagnosa": "Sekarat",
+        "ruangan": "Cempaka",
+        "dokter": "dr. Devon"
+    }
+}

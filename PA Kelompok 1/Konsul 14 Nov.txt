@@ -1,0 +1,24 @@
+ruangan dibuat pilihan (tambah data)
+styling border (lihat data)
+tampilkan data untuk melihat id (hapus data)
+fitur admin hanya menambah dokter (untuk diagnosa diinput oleh dokter)
+tambahkan fitur edit password untuk dokter
+ruangan tidak dibuatkan akun
+dokter pakai CRUD data pasien
+clear screen
+
+
+Admin untuk menambah akun dokter:
+- nama
+- uname
+- password
+- spesialis
+- ruangan
+
+saat dokter menambah pasien, ruangan dan nama dokter akan langsung mengikuti
+
+fitur admin: CRUD pasien dan dokter
+
+buat flowchart 
+
+
