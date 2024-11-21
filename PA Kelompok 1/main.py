@@ -6,7 +6,7 @@ dataUser = 'data_user.json'
 dataPasien = 'data_pasien.json'
 
 def clear_screen():
-    os.system('cls' if os.name == 'nt' else 'clear')
+    os.system('cls'||'clear')
 
 def muatData(file):
     if not os.path.exists(file):
